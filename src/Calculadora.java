@@ -47,4 +47,8 @@ public class Calculadora {
 		¿Qué acción realiza el parámetro -b?
 	 * hace que se cree una nueva rama como si se llamara a git-branch
 	 */
+	
+	/*9. Luego de realizar el merge nos informa que los cambios necesitan revision porque se han trabajado de diferentes maneras dentro de las mismas lineas y hay que seleccionar con cual opcion nos queremos quedar.
+	 * 
+	 */
 }
